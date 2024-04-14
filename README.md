@@ -1,6 +1,6 @@
 # Gmail Clone
 
-# Description
+## Description
 This is a Clone of Gmail web Application built in React, redux(state management), firebase(auth and realtime db), material-UI (only icons and buttons.
 
 ## Technologies Used
@@ -13,13 +13,12 @@ This is a Clone of Gmail web Application built in React, redux(state management)
 ## Milestones
 1. Set up Firebase project and configure necessary services.
 2. Implement user authentication functionality.
-3. Design and develop UI components for email composition, inbox, sent items, drafts, etc.
-4. Integrate Firebase Firestore for storing email data.
-5. Implement real-time updates for inbox and sent items.
+3. Design and develop UI components for email composition, inbox, sent items, drafts.
+4. Integrate Firebase for sending messages
+5. Implement real-time send message functions
 6. Test functionality and responsiveness across different devices.
-7. Deploy project to Firebase Hosting.
 
-### Some Screenshots
+## Some Screenshots
 
 ![screen2](https://user-images.githubusercontent.com/68134403/144436124-f3664534-e5a1-4324-a50e-ff38b8c79802.png)
 
