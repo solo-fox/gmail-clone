@@ -1,4 +1,4 @@
-### Gmail Clone
+# Gmail Clone
 
 # Description
 This is a Clone of Gmail web Application built in React, redux(state management), firebase(auth and realtime db), material-UI (only icons and buttons.
